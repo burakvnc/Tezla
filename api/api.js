@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://192.168.1.22:3000",
+  baseURL: "https://tezla-backend-production.up.railway.app/",
   timeout: 10000,
 });
 
