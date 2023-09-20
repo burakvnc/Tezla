@@ -26,7 +26,7 @@ https://github.com/burakvnc/Tezla-Backend
 
 ## APK dosyası
 
-
+https://drive.google.com/file/d/1tq8K6dd6z2XqEECdEA_A5I81v4SQsO7W/view?usp=sharing
 
 ## Badges
 
