@@ -21,8 +21,8 @@ Yüklemek için gerekenler
   npm i
   npm start
 ```  
-## Demo
-
+## Backend
+https://github.com/burakvnc/Tezla-Backend
 
 ## APK dosyası
 
