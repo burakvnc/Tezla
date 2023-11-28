@@ -28,7 +28,7 @@ export default function Register() {
     };
 
     try {
-      const response = await fetch("https://tezla-backend-production.up.railway.app/auth/register", {
+      const response = await fetch("https://artistic-totally-dassie.ngrok-free.app/auth/register", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

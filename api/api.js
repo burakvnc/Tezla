@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://tezla-backend-production.up.railway.app/",
+  baseURL: "https://artistic-totally-dassie.ngrok-free.app/",
   timeout: 10000,
 });
 

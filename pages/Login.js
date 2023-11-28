@@ -18,7 +18,7 @@ export default function Login({ navigation }) {
     };
 
     try {
-      const response = await fetch("https://tezla-backend-production.up.railway.app/auth/login", {
+      const response = await fetch("https://artistic-totally-dassie.ngrok-free.app/auth/login", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
